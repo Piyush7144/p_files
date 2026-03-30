@@ -161,8 +161,7 @@ Partition Equal Subset Sum
 
 Unique Paths
 Longest Common Subsequence
-Best Time to Buy And Sell Stock With
-Cooldown
+Best Time to Buy And Sell Stock With Cooldown
 Coin Change 11
 Target Sum
 Interleaving String

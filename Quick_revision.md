@@ -1,6 +1,6 @@
 1. Arrays_sorting_searching
 
-kadanes algorithm, Largest Sum Contiguous Subarray
+kadanes algorithm, Largest Sum Contiguous Subarray 
 Sort an array of 0's 1's & 2's
 Merge two sorted array:
 Majority element is an array
@@ -12,8 +12,8 @@ Search in a row wise and column wise sorted matrix
 
 2. Backtracking
 
-template
-rat in the maze 
+template [PATTERN]
+rat in the maze  
 n-queen problem
 all solution for n-queen problem
 
@@ -22,7 +22,7 @@ all solution for n-queen problem
 
 First and Last accurence of an element in sorted array
 Find maximum element in bitonic arrary
-Allocate minimum number of pages
+Allocate minimum number of pages [PATTERN]
 
 
 4. bit manupulation all
@@ -81,21 +81,21 @@ Count pairs with given sum
 Four sum problem:
 Largest subarray with 0 sum, containing 0, -ve and positive nums
 Length of the longest substring without repeating characters
-Implement LRU cache algorithm:
+Implement LRU cache algorithm: [DS]
 
 
 10. heap
 
-Kth smallest/largest element in an unsorted array
-connect-n-ropes-minimum-cost
+Kth smallest/largest element in an unsorted array [PATTERN]
+connect-n-ropes-minimum-cost [PATTERN]
 
 
 11. linked list
 
-Delect loop in linked list
+Delect loop in linked list [DS]
 Find the middle element of linked List
-Reverse a linked list: 
-Reverse a Linked List in group of Given Size. [Very Imp]
+Reverse a linked list: [DS]
+Reverse a Linked List in group of Given Size. [DS]
 Add 1 to a number represented as linked list
 Write a function to get the intersection point of two Linked Lists
 Merge Two sorted linked lists:
@@ -119,13 +119,13 @@ Longest Substring With K Unique Characters
 
 13. sorting
 
-Insersion sort
-mergesort
-quickSort
+Insersion sort [ALGORITHM]
+mergesort [ALGORITHM]
+quickSort [ALGORITHM]
 
 14. stack
 
-Next greater/smaller in left/right
+Next greater/smaller in left/right [PATTERN]
 The stock span problem
 Largest area in a histogram:
 Max area rectangle in a binary matrix:
@@ -134,8 +134,8 @@ Tapping rain water problem
 
 15. strings
 
-Robin karp algorithm:
-Kmp algorithm:
+Robin karp algorithm: [ALGORITHM]
+Kmp algorithm: [ALGORITHM]
 
 
 16. two pointers
@@ -146,12 +146,12 @@ Subarray with given sum (non negative)
 
 17. tree
 
-Height or maxDepth of Tree
-PreOrder, Inorder and Postorder recursion
-PreOrder, Inorder and Postorder iterative
+Height or maxDepth of Tree [DS]
+PreOrder, Inorder and Postorder recursion [DS]
+PreOrder, Inorder and Postorder iterative [DS]
 
 Left view PreOrder
-Binary tree is balance or not
+Binary tree is balance or not [DS]
 zig zag traversal
 Vertical order traversal
 Boundary Traversal of binary tree
@@ -184,7 +184,7 @@ Nodes on same path:
 
 18. Recursion
 
-Tower of hanoi
+Tower of hanoi [DS]
 Print all subsets of array
 Print all permutations of String//Without duplicates
 Generate all Balanced Parentheses
