@@ -589,7 +589,7 @@ int function( inputs)
 int solve(Node* root, int& res)
 {
     //Base condition
-    if(root === NULL)
+    if(root == NULL)
         return 0;
 
     //hypothesis

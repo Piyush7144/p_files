@@ -307,6 +307,8 @@ heap sort [ALGORITHM]
 2. Nearest greater to right (next greater element)
 3. Nearest smaller to left (next smaller element)
 4. Nearest smaller to right
+ - Next greater II (circular array) (leetcode)
+ - Next greater III (next smallest number / permutation) (leetcode)
 5. Stock span problem
 6. Maximum area of histogram
 7. Max area of rectangle Binary matrix

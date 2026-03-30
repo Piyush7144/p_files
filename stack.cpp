@@ -608,7 +608,7 @@ Algo:
 4. If operator 
 
     pop from stack and print until an  
-    operator with less precedence is found  
+    operator with less precedence is found, don't push ^ (right precedese)
 
     push 
 
