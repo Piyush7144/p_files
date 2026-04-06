@@ -1,3 +1,9 @@
+Links: 
+
+
+https://leetcode.com/discuss/post/665604/important-and-useful-links-from-all-over-ocy8/
+https://leetcode.com/discuss/post/5366542/all-leetcode-articles-on-coding-patterns-1uhy/
+
 1. Arrays_sorting_searching
 
 Find duplicate element in an element
@@ -63,6 +69,20 @@ Determine if graph can be colored with at most M colours such that no two adjace
 Boggle (Find all the possible words in a board of characters)
 The Knight's tour problem
 Print all combinations of balanced Parentheses
+
+Practice problems:
+Combination Sum
+Combination Sum II
+Subsets
+Subsets II
+Permutations
+Permutations II
+Permutation Sequence
+Palindrome Partitioning
+Palindrome Partitioning  II
+Next permutation
+Palindrome Permutations
+
 
 
 
@@ -303,21 +323,23 @@ heap sort [ALGORITHM]
 
 14. stack
 
-1. Nearest greater to left
-2. Nearest greater to right (next greater element)
-3. Nearest smaller to left (next smaller element)
-4. Nearest smaller to right
- - Next greater II (circular array) (leetcode)
+1. Nearest greater to left (done)
+2. Nearest greater to right (next greater element) (done)
+3. Nearest smaller to left (next smaller element) (done) previous smaller
+4. Nearest smaller to right (done)
+ - Next greater II (circular array) (leetcode) (done0)
  - Next greater III (next smallest number / permutation) (leetcode)
-5. Stock span problem
-6. Maximum area of histogram
+5. Stock span problem (done)
+6. Maximum area of histogram or Largest area in rectangle (done)
 7. Max area of rectangle Binary matrix
-8. Rain water tapping
-9. Implement a min stack
+8. Rain water tapping (done)
+9. Implement a min stack (done)
 10. Implement stack using heap
 11. The celebrity problem
 12. Longest valid parenthesis
 13. Iterative tower of honai
+Sum of subarray mimimums() (done)
+Sum of subarray ranges. (done)
 Sliding window maximum
 Find maximum of minimum of every window size
 
@@ -419,6 +441,8 @@ Sort stack using recursion
 
 
 
+19. Prefix Sum
+https://leetcode.com/problems/subarray-sum-equals-k/solutions/867435/detailed-explanation-of-math-behind-o-n-solution-python3/
 
 
 
